@@ -1,5 +1,16 @@
 ### Hello, I'm Vladimir 👋
-I'm a Python developer with strong backround in ACS and MES.
+
+I'm a Python developer with strong backround in ACS and MES. 
+
+### 💪My current technology stack includes: 
+ - Django
+ - unittest
+ - DRF
+ - Sqlite
+ - Telegram Api
+ - Flask
+ - SQL
+ - Git
 
 
 ### 🛠**My Realized projects:**
@@ -10,21 +21,21 @@ I'm a Python developer with strong backround in ACS and MES.
      - Modbus RTU(pymodbus)
      - MySQL (pymysql)
      - Sqlite
-    <br><br>
+    <br>
  2. #### <u>Modbus RTU gate for WattsOn power transducer:</u>
     https://github.com/ead3471/modbus_gate <br>
     Used technologies:
      - Python 2.7(client requirement)
      - Modbus RTU(pymodbus)
      - MySQL (pymysql)
-    <br><br>
+    <br>
  3. #### <u>Fast Tools Scada historian data retriever:</u>
     https://github.com/ead3471/ssrs <br>
     Used technologies:
      - Python 3.8(client requirement)
      - XML
      - JSON
-    <br><br>
+    <br>
  4. #### <u>Fast Tools Scada historian data reporter:</u>
     https://github.com/ead3471/masdu <br>
     Used technologies:
@@ -32,9 +43,23 @@ I'm a Python developer with strong backround in ACS and MES.
      - XML
      - JSON
      - FTP
-    <br><br>
+    <br>
 
+5. #### <u>Pet project for engineering units physical measures converting:</u>
+    https://github.com/ead3471/eng_unit_converter <br>
+    Just OOP =)
+    <br>
 
+In the scope of my Yandex Practicum course i developed following projects:
+1. #### <u>Social network</u>
+    The project demonstrates the use of Django templates and unittest
+    https://github.com/ead3471/hw05_final
+2. #### <u>Telegram bot</u>
+    The project demostrates creation of telegram bot using python-telegram-bot
+    https://github.com/ead3471/homework_bot
+3. #### <u>Social network API</u>
+    The project demonstrates the useing of DRF
+    https://github.com/ead3471/api_yatube
 
 
 
