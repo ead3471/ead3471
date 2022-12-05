@@ -50,12 +50,13 @@ Also i have a litle expirience in:
 
 ### 🤓<b> In the scope of the Yandex Practicum course, I developed the following projects:</b>
 1. #### <u>Social network</u>
-    The project demonstrates the use of Django templates and unittest technologyies<b>
+    The project demonstrates the use of Django templates and unittest technology
+    <br>
     https://github.com/ead3471/hw05_final
 2. #### <u>Telegram bot</u>
     The project demostrates creation of telegram bot using python-telegram-bot<br>
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
-    The project demonstrates the useing of DRF<br>
+    The project demonstrates the using of DRF<br>
     https://github.com/ead3471/api_yatube
 
