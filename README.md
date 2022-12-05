@@ -44,13 +44,13 @@ Also i have a litle expirience in:
     <br>
 
 6. #### <u>Pet project the tictactoe game:</u>
-    Project goal is to demonstrate work with tkinter python module<br>
+    Project goal is to demonstrate work with tkinter python package<br>
     https://github.com/ead3471/tictactoe <br>
     <br>
 
 ### 🤓<b> In the scope of the Yandex Practicum course, I developed the following projects:</b>
 1. #### <u>Social network</u>
-    The project demonstrates the use of Django templates and unittest technology
+    The project demonstrates the use of Django templates and unittest technologies
     <br>
     https://github.com/ead3471/hw05_final
 2. #### <u>Telegram bot</u>
