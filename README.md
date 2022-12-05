@@ -2,7 +2,7 @@
 
 I'm a Python developer with strong backround in ACS and MES. 
 
-### 💪My current technology stack includes: 
+### 💪 My current technology stack is: 
  - Django
  - unittest
  - DRF
@@ -11,6 +11,8 @@ I'm a Python developer with strong backround in ACS and MES.
  - Flask
  - SQL
  - Git
+
+Also i have a litle expirience in:
 
 
 ### 🛠**My Realized projects:**
@@ -21,14 +23,14 @@ I'm a Python developer with strong backround in ACS and MES.
      - Modbus RTU(pymodbus)
      - MySQL (pymysql)
      - Sqlite
-    <br>
+
  2. #### <u>Modbus RTU gate for WattsOn power transducer:</u>
     https://github.com/ead3471/modbus_gate <br>
     Used technologies:
      - Python 2.7(client requirement)
      - Modbus RTU(pymodbus)
      - MySQL (pymysql)
-    <br>
+
  3. #### <u>Fast Tools Scada historian data retriever:</u>
     https://github.com/ead3471/ssrs <br>
     Used technologies:
@@ -50,15 +52,20 @@ I'm a Python developer with strong backround in ACS and MES.
     Just OOP =)
     <br>
 
-In the scope of my Yandex Practicum course i developed following projects:
+6. #### <u>Pet project the tictactoe game:</u>
+    Project goal is to demonstrate work with tkinter python module<br>
+    https://github.com/ead3471/tictactoe <br>
+    <br>
+
+### 🤓<b> In the scope of the Yandex Practicum course, I developed the following projects:</b>
 1. #### <u>Social network</u>
-    The project demonstrates the use of Django templates and unittest
+    The project demonstrates the use of Django templates and unittest technologyies<b>
     https://github.com/ead3471/hw05_final
 2. #### <u>Telegram bot</u>
-    The project demostrates creation of telegram bot using python-telegram-bot
+    The project demostrates creation of telegram bot using python-telegram-bot<br>
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
-    The project demonstrates the useing of DRF
+    The project demonstrates the useing of DRF<br>
     https://github.com/ead3471/api_yatube
 
 
