@@ -13,8 +13,6 @@ I'm a Python developer with strong backround in ACS and MES.
  - Git
  - Modbus communication protocol
 
-Also i have a litle expirience in:
-
 
 ### 🛠**My Realized projects:**
  1. #### <u>Modbus RTU gate for PROLON controllers:</u>
