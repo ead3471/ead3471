@@ -52,7 +52,7 @@ I'm a Python developer with strong backround in ACS and MES.
     <br>
     https://github.com/ead3471/hw05_final
 2. #### <u>Telegram bot</u>
-    The project demostrates creation of telegram bot using python-telegram-bot<br>
+    The project demonstrates creation of telegram bot using python-telegram-bot<br>
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
     The project demonstrates the using of DRF<br>
