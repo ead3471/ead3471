@@ -56,4 +56,4 @@ I'm a Python developer with strong backround in ACS and MES.
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
     The project demonstrates the using of DRF<br>
-    https://github.com/ead3471/api_final_yatube
+    https://github.com/ead3471/api_yamdb
