@@ -2,7 +2,7 @@
 
 I'm a Python developer with strong backround in ACS and MES. 
 
-### 💪 My current python technology stack is: 
+### My current python technology stack is: 
  - Django
  - unittest
  - DRF
@@ -11,6 +11,8 @@ I'm a Python developer with strong backround in ACS and MES.
  - Flask
  - SQL
  - Git
+ - Docker
+ - Docker Compose
  - Modbus communication protocol
 
 
@@ -38,7 +40,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
 5. #### <u>Pet project for engineering units physical measures converting:</u>
     https://github.com/ead3471/eng_unit_converter <br>
-    Just OOP
+    The aim of the project goal is to create a flexible library for engineering unit conversion
     <br>
 
 6. #### <u>Pet project the tictactoe game:</u>
@@ -46,7 +48,7 @@ I'm a Python developer with strong backround in ACS and MES.
     https://github.com/ead3471/tictactoe <br>
     <br>
 
-### 🤓<b> In the scope of the Yandex Practicum course, I developed the following projects:</b>
+### In the scope of the Yandex Practicum course, I developed the following projects:</b>
 1. #### <u>Social network</u>
     The project demonstrates the use of Django templates and unittest technologies
     <br>
@@ -55,5 +57,5 @@ I'm a Python developer with strong backround in ACS and MES.
     The project demonstrates creation of telegram bot using python-telegram-bot<br>
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
-    The project demonstrates the using of DRF<br>
+    The project demonstrates the using of DRF and Docker Compose<br>
     https://github.com/ead3471/api_yamdb
