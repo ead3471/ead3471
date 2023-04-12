@@ -1,4 +1,4 @@
-### Hello, I'm Vladimir 👋
+### Hello, I'm Vladimir
 
 I'm a Python developer with strong backround in ACS and MES. 
 
