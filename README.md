@@ -16,7 +16,7 @@ I'm a Python developer with strong backround in ACS and MES.
  - Modbus communication protocol
 
 
-### 🛠**My Realized projects:**
+### **My Realized projects:**
  1. #### <u>Modbus RTU gate for PROLON controllers:</u>
     https://github.com/ead3471/prolon_gate <br>
     Technologies used:<br>
@@ -40,7 +40,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
 5. #### <u>Pet project for engineering units physical measures converting:</u>
     https://github.com/ead3471/eng_unit_converter <br>
-    The aim of the project goal is to create a flexible library for engineering unit conversion
+    The aim of the project is to create a flexible library for engineering unit conversion
     <br>
 
 6. #### <u>Pet project the tictactoe game:</u>
@@ -50,12 +50,20 @@ I'm a Python developer with strong backround in ACS and MES.
 
 ### In the scope of the Yandex Practicum course, I developed the following projects:</b>
 1. #### <u>Social network</u>
-    The project demonstrates the use of Django templates and unittest technologies
+    Social network YaTube for publishing posts and pictures
+    Technologies used:<br>
+    Python, Django, Django ORM, Django templates
     <br>
     https://github.com/ead3471/hw05_final
 2. #### <u>Telegram bot</u>
-    The project demonstrates creation of telegram bot using python-telegram-bot<br>
+    Telegram bot used for checking Yandex Practicum project status<br>
+    Technologies used:<br>
+    Python, aiogramm
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
-    The project demonstrates the using of DRF and Docker Compose<br>
-    https://github.com/ead3471/api_yamdb
+    YAMDB project is a popular artworks review platform that contains brief information about various pieces of art and gives users possibility to leave personal reviews and comments. YAMDB provides API that allows to develop your own user interface to the platform and integrate it into your eco-system
+    Technologies used:<br>
+    Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
+    <br>
+    https://github.com/ead3471/yamdb_final
+
