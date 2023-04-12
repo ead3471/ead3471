@@ -4,6 +4,8 @@ I'm a Python developer with strong backround in ACS and MES.
 
 ### My current python technology stack is: 
  - Django
+ - Django ORM
+ - DRF
  - unittest
  - DRF
  - Sqlite
