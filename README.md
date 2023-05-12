@@ -52,7 +52,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
 ### In the scope of the Yandex Practicum course, I developed the following projects:</b>
 1. #### <u>Social network</u>
-    Social network YaTube for publishing posts and pictures
+    Social network YaTube for publishing posts and pictures<br>
     Technologies used:<br>
     Python, Django, Django ORM, Django templates
     <br>
@@ -64,6 +64,7 @@ I'm a Python developer with strong backround in ACS and MES.
     https://github.com/ead3471/homework_bot
 3. #### <u>Social network API</u>
     YAMDB project is a popular artworks review platform that contains brief information about various pieces of art and gives users possibility to leave personal reviews and comments. YAMDB provides API that allows to develop your own user interface to the platform and integrate it into your eco-system
+    <br>
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
     <br>
@@ -78,6 +79,7 @@ I'm a Python developer with strong backround in ACS and MES.
     - Add recipes to favorites
     - Add recipes to the shopping cart
     - Download the shopping cart in PDF format with calculated total ingredients
+    <br>
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
     <br>
