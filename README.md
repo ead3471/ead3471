@@ -69,3 +69,18 @@ I'm a Python developer with strong backround in ACS and MES.
     <br>
     https://github.com/ead3471/yamdb_final
 
+3. #### <u>Foodgram  network API</u>
+    This is a Foodgram project -a special service for cooking enthusiasts.<br>
+    Users can:
+    - Register
+    - Publish their own recipes
+    - Subscribe to favorite authors
+    - Add recipes to favorites
+    - Add recipes to the shopping cart
+    - Download the shopping cart in PDF format with calculated total ingredients
+    Technologies used:<br>
+    Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
+    <br>
+    https://github.com/ead3471/foodgram-project-react
+
+
