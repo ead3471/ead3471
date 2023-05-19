@@ -16,7 +16,7 @@ I'm a Python developer with strong backround in ACS and MES.
  - Modbus communication protocol
 
 
-### **My Realized projects:**
+### **My Realized commercial projects:**
  1. #### <u>[Modbus RTU gate for PROLON controllers:](https://github.com/ead3471/prolon_gate)</u>
     ProlonGate is a module designed to request and automatically load data from Prolon controllers via Modbus RTU protocol to a remote MySql database. Additional feauture - requesting controllers via web interface<br>
     Technologies used:<br>
@@ -38,10 +38,12 @@ I'm a Python developer with strong backround in ACS and MES.
     Technologies used:<br>
     Python 3.8, XML, JSON, FTP
 
-5. #### <u>[Engineering units physical measures converting:](https://github.com/ead3471/eng_unit_converter)</u>
+
+### **My Pet projects:**
+1. #### <u>[Engineering units physical measures converting:](https://github.com/ead3471/eng_unit_converter)</u>
     The aim of the project is to create a flexible library for engineering unit conversion.
 
-6. #### <u>[Foodgram  network API](https://github.com/ead3471/foodgram-project-react)</u>
+2. #### <u>[Foodgram  network API](https://github.com/ead3471/foodgram-project-react)</u>
     This is a Foodgram project - a special service for cooking enthusiasts.<br>
     Users can:
     - Register
@@ -53,10 +55,9 @@ I'm a Python developer with strong backround in ACS and MES.
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
     <br>
-    [View the deployed project](https://158.160.44.52/recipes)
+    [View](https://github.com/ead3471/foodgram-project-react) the deployed project
 
-
-7. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
+3. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
     Telegram bot used for checking Yandex Practicum project  review status<br>
     Technologies used:<br>
     Python, aiogramm
