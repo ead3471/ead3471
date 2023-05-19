@@ -31,17 +31,15 @@ I'm a Python developer with strong backround in ACS and MES.
     Module for retrieving data from Yokogawa Fast Tools Scada and presenting it in JSON format. Used to speed up the process of creating SSRS reports.<br>
     Technologies used:<br>
     Python 3.8, XML, JSON
-    <br>
+
  4. #### <u>[Fast Tools Scada historian data reporter:](https://github.com/ead3471/masdu)</u>
-    Module for retrieving data from Yokogawa Fast Tools Scada and creating special reports in XML format. Reports are sent to the ftp server.
+    Module for retrieving data from Yokogawa Fast Tools Scada and creating special reports in XML format. Reports are sent to the ftp server.<br>
 
     Technologies used:<br>
-    Python 3.8(client requirement), XML, JSON, FTP
-    <br>
+    Python 3.8, XML, JSON, FTP
 
 5. #### <u>[Engineering units physical measures converting:](https://github.com/ead3471/eng_unit_converter)</u>
     The aim of the project is to create a flexible library for engineering unit conversion.
-    <br>
 
 6. #### <u>[Foodgram  network API](https://github.com/ead3471/foodgram-project-react)</u>
     This is a Foodgram project - a special service for cooking enthusiasts.<br>
@@ -52,12 +50,10 @@ I'm a Python developer with strong backround in ACS and MES.
     - Add recipes to favorites
     - Add recipes to the shopping cart
     - Download the shopping cart in PDF format with calculated total ingredients
-    <br>
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
     <br>
-    [View the deployed project](http://158.160.44.52/recipes)
-<br>
+    [View the deployed project](https://158.160.44.52/recipes)
 
 
 7. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
