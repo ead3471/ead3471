@@ -2,6 +2,8 @@
 
 I'm a Python developer with strong backround in ACS and MES. 
 
+---
+
 ### My current python technology stack is: 
  - Django
  - Django ORM
@@ -15,6 +17,7 @@ I'm a Python developer with strong backround in ACS and MES.
  - Docker Compose
  - Modbus communication protocol
 
+---
 
 ### **My Realized commercial projects:**
  1. #### <u>[Modbus RTU gate for PROLON controllers:](https://github.com/ead3471/prolon_gate)</u>
@@ -37,6 +40,7 @@ I'm a Python developer with strong backround in ACS and MES.
     Technologies used:\
     Python 3.8, XML, JSON, FTP
 
+---
 
 ### **My Pet projects:**
 1. #### <u>[Engineering units physical measures converting:](https://github.com/ead3471/eng_unit_converter)</u>
@@ -52,7 +56,7 @@ I'm a Python developer with strong backround in ACS and MES.
     - Add recipes to the shopping cart
     - Download the shopping cart in PDF format with calculated total ingredients
     
-    You can check deployed project [here](http://158.160.44.52/)
+    You can check deployed project [here](http://158.160.44.52/recipes)
 
     Technologies used:\
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
