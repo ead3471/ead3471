@@ -44,7 +44,6 @@ I'm a Python developer with strong backround in ACS and MES.
     The aim of the project is to create a flexible library for engineering unit conversion.
 
 2. #### <u>[Foodgram  network API](https://github.com/ead3471/foodgram-project-react)</u>
-    You can check deployed project [here](http://158.160.44.52/)
     This is a Foodgram project - a special service for cooking enthusiasts.<br>
     Users can:
     - Register
@@ -53,6 +52,7 @@ I'm a Python developer with strong backround in ACS and MES.
     - Add recipes to favorites
     - Add recipes to the shopping cart
     - Download the shopping cart in PDF format with calculated total ingredients
+    You can check deployed project [here](http://158.160.44.52/)
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
     <br>
