@@ -44,6 +44,7 @@ I'm a Python developer with strong backround in ACS and MES.
     The aim of the project is to create a flexible library for engineering unit conversion.
 
 2. #### <u>[Foodgram  network API](https://github.com/ead3471/foodgram-project-react)</u>
+    You can check deployed project [here](http://158.160.44.52/)
     This is a Foodgram project - a special service for cooking enthusiasts.<br>
     Users can:
     - Register
@@ -54,11 +55,10 @@ I'm a Python developer with strong backround in ACS and MES.
     - Download the shopping cart in PDF format with calculated total ingredients
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
-    <br>
-    You can check deplyed project [here](http://158.160.44.52/)
+
 
 3. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
-    Telegram bot used for checking Yandex Practicum project  review status<br>
+    Telegram bot used for checking Yandex Practicum project review status<br>
     Technologies used:<br>
     Python, aiogramm
 
