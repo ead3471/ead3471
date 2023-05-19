@@ -52,6 +52,7 @@ I'm a Python developer with strong backround in ACS and MES.
     - Add recipes to favorites
     - Add recipes to the shopping cart
     - Download the shopping cart in PDF format with calculated total ingredients
+    <br>
     You can check deployed project [here](http://158.160.44.52/)
 
     Technologies used:<br>
