@@ -51,13 +51,12 @@ I'm a Python developer with strong backround in ACS and MES.
     - Subscribe to favorite authors
     - Add recipes to favorites
     - Add recipes to the shopping cart
-    - Download the shopping cart in PDF format with calculated total ingredients
-    <br>
+    - Download the shopping cart in PDF format with calculated total ingredients\
+    
     You can check deployed project [here](http://158.160.44.52/)
 
-    Technologies used:<br>
+    Technologies used:\
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
-    <br>
      
 
 
