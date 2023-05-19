@@ -55,7 +55,7 @@ I'm a Python developer with strong backround in ACS and MES.
     Technologies used:<br>
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
     <br>
-    [View](https://github.com/ead3471/foodgram-project-react) the deployed project
+    You can check deplyed project [here](http://158.160.44.52/)
 
 3. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
     Telegram bot used for checking Yandex Practicum project  review status<br>
