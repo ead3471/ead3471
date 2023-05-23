@@ -25,17 +25,12 @@ I'm a Python developer with strong backround in ACS and MES.
     Technologies used:\
     Python 2.7, Modbus RTU, MySQL, Sqlite, Flask
 
- 2. #### <u>[Modbus RTU gate for WattsOn power transducer:](https://github.com/ead3471/modbus_gate)</u>
-    Module for loading data from WattsOn power transducers into a remote database. My attempt to create a universal Modbus device requesting module\
-    Technologies used:\
-    Python 2.7, Modbus RTU, MySQL
-
- 3. #### <u>[Fast Tools Scada historian data retriever:](https://github.com/ead3471/ssrs)</u>
+ 2. #### <u>[Fast Tools Scada historian data retriever:](https://github.com/ead3471/ssrs)</u>
     Module for retrieving data from Yokogawa Fast Tools Scada and presenting it in JSON format. Used to speed up the process of creating SSRS reports.\
     Technologies used:\
     Python 3.8, XML, JSON
 
- 4. #### <u>[Fast Tools Scada historian data reporter:](https://github.com/ead3471/masdu)</u>
+ 3. #### <u>[Fast Tools Scada historian data reporter:](https://github.com/ead3471/masdu)</u>
     Module for retrieving data from Yokogawa Fast Tools Scada and creating special reports in XML format. Reports are sent to the ftp server.\
     Technologies used:\
     Python 3.8, XML, JSON, FTP
