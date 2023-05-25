@@ -50,16 +50,16 @@ I'm a Python developer with strong backround in ACS and MES.
     - Add recipes to favorites
     - Add recipes to the shopping cart
     - Download the shopping cart in PDF format with calculated total ingredients
-    
+
     You can check deployed project [here](http://158.160.44.52/recipes)
 
     Technologies used:\
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
-     
 
 
 3. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
     Telegram bot used for checking Yandex Practicum project review status\
+
     Technologies used:\
     Python, aiogramm
 
