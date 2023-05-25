@@ -58,7 +58,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
 
 3. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
-    Telegram bot used for checking Yandex Practicum project review status\
+    Telegram bot used for checking Yandex Practicum project review status
 
     Technologies used:\
     Python, aiogramm
