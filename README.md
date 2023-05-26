@@ -61,7 +61,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
     You can chat with bot [here](https://t.me/eng_unit_converter_bot)
 
-4. #### <u>[Homework checker Telegram bot](https://github.com/ead3471/homework_bot)</u>
+4. #### <u>[Telegram homework checker bot](https://github.com/ead3471/homework_bot)</u>
     Telegram bot used for checking Yandex Practicum project review status
 
     Technologies used:\
