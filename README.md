@@ -57,9 +57,9 @@ I'm a Python developer with strong backround in ACS and MES.
     Python, Django, DRF, Postgres, Docker, Docker-compose, Github CI/CD
 
 3. #### <u>[Engeneering units convertion bot](https://github.com/ead3471/eng_converter_bot)</u>
-The aim of a project is a provide handy util for conversion some engineering units, used in technology.\
+    The aim of a project is a provide handy util for conversion some engineering units, used in technology.
 
-You can chat with bot [here](https://t.me/eng_unit_converter_bot)
+    You can chat with bot [here](https://t.me/eng_unit_converter_bot)
 
 4. #### <u>[Telegram bot](https://github.com/ead3471/homework_bot)</u>
     Telegram bot used for checking Yandex Practicum project review status
