@@ -21,7 +21,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
 ---
 
-### **My Implemented commercial projects:**
+### **My implemented commercial projects:**
  1. #### <u>[Modbus RTU gate for PROLON PLCs:](https://github.com/ead3471/prolon_gate)</u>
     ProlonGate is a module designed to request and automatically load data from Prolon PLCs(Programmable Logic controllers) via Modbus RTU protocol to a remote MySql database. Additional feauture - requesting PLCs via web interface\
     Technologies used:\
@@ -39,7 +39,7 @@ I'm a Python developer with strong backround in ACS and MES.
 
 ---
 
-### **My Pet projects:**
+### **My pet projects:**
 1. #### <u>[Engineering units physical measures converting:](https://github.com/ead3471/eng_unit_converter)</u>
     The aim of the project is to create a flexible library for engineering unit conversion.
 
