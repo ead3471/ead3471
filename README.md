@@ -9,24 +9,26 @@ I'm a Python developer with strong backround in ACS and MES.
  - Django ORM
  - DRF
  - unittest
- - Sqlite
- - Telegram Api
  - SQL
+ - MS SQL
+ - SQLite
+ - PostgreSQL
+ - Telegram Api
  - Git
  - Docker
  - Docker Compose
- - Modbus communication protocol
+ - pymodbus
 
 ---
 
-### **My Realized commercial projects:**
+### **My Implemented commercial projects:**
  1. #### <u>[Modbus RTU gate for PROLON controllers:](https://github.com/ead3471/prolon_gate)</u>
     ProlonGate is a module designed to request and automatically load data from Prolon controllers via Modbus RTU protocol to a remote MySql database. Additional feauture - requesting controllers via web interface\
     Technologies used:\
-    Python 2.7, Modbus RTU, MySQL, Sqlite, Flask
+    Python 2.7, Modbus RTU, MySQL, SQLite, Flask
 
  2. #### <u>[Fast Tools Scada historian data retriever:](https://github.com/ead3471/ssrs)</u>
-    Module for retrieving data from Yokogawa Fast Tools Scada and presenting it in JSON format. Used to speed up the process of creating SSRS reports.\
+    Module for retrieving data from Yokogawa Fast Tools Scada and presenting it in JSON format. Used to speed up the process of creating MS SSRS reports.\
     Technologies used:\
     Python 3.8, XML, JSON
 
