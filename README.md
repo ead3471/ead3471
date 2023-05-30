@@ -22,18 +22,18 @@ I'm a Python developer with strong backround in ACS and MES.
 ---
 
 ### **My Implemented commercial projects:**
- 1. #### <u>[Modbus RTU gate for PROLON controllers:](https://github.com/ead3471/prolon_gate)</u>
-    ProlonGate is a module designed to request and automatically load data from Prolon controllers via Modbus RTU protocol to a remote MySql database. Additional feauture - requesting controllers via web interface\
+ 1. #### <u>[Modbus RTU gate for PROLON PLCs:](https://github.com/ead3471/prolon_gate)</u>
+    ProlonGate is a module designed to request and automatically load data from Prolon PLCs(Programmable Logic controllers) via Modbus RTU protocol to a remote MySql database. Additional feauture - requesting PLCs via web interface\
     Technologies used:\
     Python 2.7, Modbus RTU, MySQL, SQLite, Flask
 
- 2. #### <u>[Fast Tools Scada historian data retriever:](https://github.com/ead3471/ssrs)</u>
-    Module for retrieving data from Yokogawa Fast Tools Scada and presenting it in JSON format. Used to speed up the process of creating MS SSRS reports.\
+ 2. #### <u>[Fast Tools SCADA historian data retriever:](https://github.com/ead3471/ssrs)</u>
+    Module for retrieving data from Yokogawa Fast Tools SCADA and presenting it in JSON format. Used to speed up the process of creating MS SSRS reports.\
     Technologies used:\
     Python 3.8, XML, JSON
 
- 3. #### <u>[Fast Tools Scada historian data reporter:](https://github.com/ead3471/masdu)</u>
-    Module for retrieving data from Yokogawa Fast Tools Scada and creating special reports in XML format. Reports are sent to the ftp server.\
+ 3. #### <u>[Fast Tools SCADA historian data reporter:](https://github.com/ead3471/masdu)</u>
+    Module for retrieving data from Yokogawa Fast Tools SCADA and creating special reports in XML format. Reports are sent to the ftp server.\
     Technologies used:\
     Python 3.8, XML, JSON, FTP
 
