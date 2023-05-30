@@ -30,7 +30,7 @@ I'm a Python developer with strong backround in ACS and MES.
  2. #### <u>[Fast Tools SCADA historian data retriever:](https://github.com/ead3471/ssrs)</u>
     Module for retrieving data from Yokogawa Fast Tools SCADA and presenting it in JSON format. Used to speed up the process of creating MS SSRS reports.\
     Technologies used:\
-    Python 3.8, XML, JSON
+    Python 3.8, XML, JSON, MS SSRS
 
  3. #### <u>[Fast Tools SCADA historian data reporter:](https://github.com/ead3471/masdu)</u>
     Module for retrieving data from Yokogawa Fast Tools SCADA and creating special reports in XML format. Reports are sent to the ftp server.\
